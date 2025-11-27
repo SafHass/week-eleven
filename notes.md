@@ -1,7 +1,7 @@
 Notes
 
 
-Pod
+
 The part in the podcast where Professor Wattrell talks about thoughtfulness open as a spectrum was important to me as it reframed open data from a simple technical problem to a design challenge. Wattrell is arguing that the model where you build a wall and just put a fate on it(where the data is neither inside or outside) is just insufficient for the real world. There's not just one dataset but multiple views of the same data. I noticed this connects to our work with Gabbi data. When I noticed that stratigraphic units like 1135 and 1170 were part of a structural system, I was thinking like a data analyst seeing a foreign key relationship. But from Wattrell's perspective, that relationship itself might be sensitive. The podcast helped 
 
 
@@ -9,6 +9,8 @@ The part in the podcast where Professor Wattrell talks about thoughtfulness open
 - Launch new notebook powered by R
 - Wouldn’t let me create a new R book. I’m not sure but i have issues when using R in the lab so I’ll always use my R console on my mac and upload the code into the notebook
 - Was able to download the libraries but my R console wouldn’t continue with the rest of the code(picture of error)
+<img width="963" height="69" alt="Screenshot 2025-11-26 at 12 55 30" src="https://github.com/user-attachments/assets/3d62d93b-df35-4fd0-8ce3-aadc9a677b26" />
+
 - I decided to look up what was wrong with my R notebook. Downloaded through https://cran.r-project.org/ and ran commands in the terminal(install.packages('IRkernel') IRkernel::installspec(user = TRUE). After restarting JupyterLab my R notebook started to appear. Go forward with R code in Week 11
 - I had a hard time trying to understand the glass table and how Cone Beaker gets filtered as when we run the code, Cone beaker is not the only that appears but things like Bowl, Jar, etc.
 - An observation I made when running the Bar plot is that it’s really vague and doesn't explain the data unless you pair it together with the code we ran before but by itself it's hard to tell what's going on. 
